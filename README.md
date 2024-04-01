@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Rut Ivgi 👋
 
-<!--
-**rutIvgi/rutIvgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate software developer, always on the lookout for new challenges and opportunities to grow. Here, you'll find a mix of personal projects, collaborations, and contributions to open-source that showcase my journey through the world of coding.
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning...
+- The latest in web development technologies.
+- How to contribute more effectively to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about...
+- My favorite projects.
+- My journey as a developer.
+- Any tech-related advice you might need!
+
+## 📫 How to reach me:
+- Email: rut05567@gmail.com
+
+
+---
+
+Feel free to browse my repositories and reach out if you want to talk tech, collaboration, or just say hi!
+
